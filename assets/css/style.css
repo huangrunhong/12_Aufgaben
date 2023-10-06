@@ -69,8 +69,9 @@ footer li {
 }
 body {
   font-family: Karla;
-  width: 100%;
+  width: 1440px;
   padding-inline: 40px;
+  margin-inline: auto;
 }
 
 nav {
